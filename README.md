@@ -6,6 +6,6 @@ Projeto Prático com React.js e Firebase (com Rotas, Autenticação, Storage, Ba
 https://www.udemy.com/course/xumes-react-criando-site-para-empresa
 
 
-# Mais informações:
+### Mais informações:
 ricardo.caiuba@gmail.com
 
